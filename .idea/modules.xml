@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java10-features.iml" filepath="$PROJECT_DIR$/java10-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-10-15-features.iml" filepath="$PROJECT_DIR$/java-10-15-features.iml" />
     </modules>
   </component>
 </project>
