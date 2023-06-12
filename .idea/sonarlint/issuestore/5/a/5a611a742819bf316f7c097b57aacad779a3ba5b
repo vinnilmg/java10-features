@@ -1,0 +1,12 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬İ>
+e
+java:S3252	"OUse static access with "java.text.NumberFormat" for "getCompactNumberInstance".(»ûÊ¾
+q
+java:S3252"OUse static access with "java.text.NumberFormat" for "getCompactNumberInstance".(‹Ë±°ûÿÿÿÿ8šºÍåŠ1
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éŞ“‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô¼–ªúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‚¥Í
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š»×ïúÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÖ•‚ÿÿÿÿÿ8õ×ÍåŠ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŸàËÿÿÿÿÿ8÷×ÍåŠ1
