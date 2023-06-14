@@ -1,0 +1,19 @@
+
+t
+java:S1104"YMake FIM_DE_SEMANA a static final constant or non-public and provide accessors if needed.(Ãáß„úÿÿÿÿ
+o
+java:S1104"TMake DIA_UTIL a static final constant or non-public and provide accessors if needed.(ã—›”ùÿÿÿÿ
+N
+java:S1444"3Make this "public static FIM_DE_SEMANA" field final(Ãáß„úÿÿÿÿ
+I
+java:S1444".Make this "public static DIA_UTIL" field final(ã—›”ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÒïÜ
+s
+java:S3008"XRename this field "FIM_DE_SEMANA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãáß„úÿÿÿÿ
+n
+java:S3008"SRename this field "DIA_UTIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã—›”ùÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(‘®¯†úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾çåéùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(´Šõÿøÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(žñ‚Ö

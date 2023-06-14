@@ -15,3 +15,9 @@ X
 (src/java12/mismatch/files/Exemplo01.java,4\7\47b284cb9bab35d63d05bd4ef331b3dd5791268b
 X
 (src/java12/compact/number/Exemplo01.java,5\a\5a611a742819bf316f7c097b57aacad779a3ba5b
+^
+.src/java11/string/novos/metodos/Exemplo01.java,9\2\92ff01498754734089c503530c52782acd2f2dc9
+Z
+*src/java12/teeing/collector/Exemplo01.java,0\9\0974e3a2886dc2cdfdf75c0530c260b95e4fc511
+]
+-src/java12/switchh/expressions/Exemplo01.java,9\f\9fda0e715ed5c9e9dc3c4e7eb54b7bc1f8c48c5f
